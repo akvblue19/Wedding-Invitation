@@ -1,4 +1,4 @@
-# Ankit Weds Gautami — A Royal Celebration
+# Ankit Weds Gautami — The Celebration
 
 A responsive, illustrated wedding invitation built with plain HTML, CSS, and JavaScript.
 
